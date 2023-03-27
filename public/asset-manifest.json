@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0ca6b782.css",
+    "main.js": "/static/js/main.24432525.js",
+    "static/js/787.4ad5b685.chunk.js": "/static/js/787.4ad5b685.chunk.js",
+    "static/media/background.png": "/static/media/background.338650b4bd87b3c795f7.png",
+    "static/media/Logo RAS.png": "/static/media/Logo RAS.1feb9752c9fd4a909901.png",
+    "static/media/IEEE_Logo.png": "/static/media/IEEE_Logo.c9525899352393d76829.png",
+    "static/media/Logo.png": "/static/media/Logo.7b49c211639133519aff.png",
+    "static/media/Logo_SB.png": "/static/media/Logo_SB.b6e6370e03e42fb490a3.png",
+    "index.html": "/index.html",
+    "main.0ca6b782.css.map": "/static/css/main.0ca6b782.css.map",
+    "main.24432525.js.map": "/static/js/main.24432525.js.map",
+    "787.4ad5b685.chunk.js.map": "/static/js/787.4ad5b685.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ca6b782.css",
+    "static/js/main.24432525.js"
+  ]
+}
