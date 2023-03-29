@@ -30,7 +30,7 @@ export const addUser = async (req: Request, res: Response) => {
         await user.save();
 
         await transporter.sendMail({
-            from: '"ESPRIT RAS ROBOTS 1.0" <Contact@esprit-ras-robots.tn>', // sender address
+            from: '"ESPRIT RAS ROBOTS 1.0" <midouca82@gmail.com>', // sender address
             to: user.email, // list of receivers
             subject: "Account Created ✅", // Subject line
             html: "You Have created your account successfully to reset your password click this Button <a href='google.com'>Forget Pass</a>", // html body

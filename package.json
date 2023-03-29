@@ -2,7 +2,7 @@
   "name": "esprit-robots-server",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "build/index.js",
   "scripts": {
     "dev": "nodemon src/index.ts",
     "build": "tsc",
@@ -38,6 +38,7 @@
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
+    "finalhandler": "^1.0.1",
     "googleapis": "^105.0.0",
     "jsonwebtoken": "^9.0.0",
     "mongoose": "^6.9.2",
